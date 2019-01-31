@@ -1,0 +1,1 @@
+~/yeast/data$ python ../script/gener_cmd_hisat2.py SRR_Acc_list_sample.txt ../ref/yeast_ref ../data/ > cmd3_hisat2.sh

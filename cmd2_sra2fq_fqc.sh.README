@@ -1,0 +1,1 @@
+/yeast/data$ python ../script/gener_cmd_sra2fq.py SRR_Acc_list.txt  > cmd2_sra2fq_fqc.sh

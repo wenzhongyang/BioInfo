@@ -1,0 +1,2 @@
+# /yeast/data/
+python ../script/gener_cmd_sra_download.py SRR_Acc_list.txt > cmd1_download_sra.sh
